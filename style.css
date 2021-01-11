@@ -1,0 +1,69 @@
+body{
+    font-family: Arial;
+    margin: 0;
+    background: black;
+  }
+
+.box1{
+    padding-top: 20px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: white;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-right: 40px;
+}
+
+.logo{
+    width: 50px;
+    margin-left: 20px;
+}
+
+.linkmenu{
+    text-decoration: none; 
+    color: white;
+    margin-left: 20px;
+  }
+
+.box2{
+    padding-bottom: 50px;    
+}
+
+.caixa{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.container{
+    color: white;
+    background: blue;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.box3{
+    color: white;
+    text-align: center;
+}
+
+.box3{
+    text-align: center;
+    height: 600px;
+  }
+
+.contatos{
+    padding-top: 30px;
+}
