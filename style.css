@@ -27,7 +27,11 @@ body{
     text-decoration: none; 
     color: white;
     margin-left: 20px;
-  }
+}
+
+.linkmenu:hover{
+    color: blue; 
+}
 
 .box2{
     padding-bottom: 50px;    
